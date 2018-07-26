@@ -1,0 +1,7 @@
+<HTML><HEAD>
+<TITLE>Service Removed</TITLE>
+</HEAD><BODY>
+<H1>This Service is no longer available</H1>
+In Accordance with <a href="http://www.nws.noaa.gov/om/notification/scn16-16wngccb.htm">NWS Service Change Notice 16-16</a> this service has been discontinued.  Please see  <a href="http://www.weather.gov">Weather.gov</a>
+and <a href="http://tgftp.nws.noaa.gov">tgftp.nws.noaa.gov (raw data)</a>
+</BODY></HTML>
